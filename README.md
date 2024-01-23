@@ -25,3 +25,6 @@ When it comes to these improvements, I’ll do a quick run of improvements that 
 Still, hope you found the project valuable and enough to grasp my knowledge and how I could be an asset to Jamble. I’m free to answer any questions about the architecture or how/why I achieved this end result.
 
 Cheers!
+
+![2](https://github.com/TiagoSantosSilva/JambleTest/assets/23014633/5de4031e-7a95-4c00-b24f-d384f35c4e34)
+![1](https://github.com/TiagoSantosSilva/JambleTest/assets/23014633/f402aa4d-8fb7-479e-82ed-a1c973466be3)
