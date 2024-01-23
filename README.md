@@ -26,5 +26,6 @@ Still, hope you found the project valuable and enough to grasp my knowledge and 
 
 Cheers!
 
-![2](https://github.com/TiagoSantosSilva/JambleTest/assets/23014633/5de4031e-7a95-4c00-b24f-d384f35c4e34)
-![1](https://github.com/TiagoSantosSilva/JambleTest/assets/23014633/f402aa4d-8fb7-479e-82ed-a1c973466be3)
+
+![1](https://github.com/TiagoSantosSilva/JambleTest/assets/23014633/20174e8f-353b-4e7e-ace7-578f79efec2d)
+
